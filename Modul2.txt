@@ -7,7 +7,4 @@ Inna Asilni Rahmawati (1202223049)
 Raihan Noor F (1202220085)
 Muhammad Haikal Arif (1202220391)
 
-<<<<<<< HEAD
-Perubahan Raina
-=======
->>>>>>> origin/main
+fix BUG
